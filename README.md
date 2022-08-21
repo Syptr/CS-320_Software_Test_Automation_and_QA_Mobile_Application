@@ -1,4 +1,4 @@
-# CS-320_Software_Test_Automation_&_QA:Mobile_Application
+# CS-320_Software_Test_Automation_&_QA_Mobile_Application
 <em>Mobile application project to exhibit skills in testing and quality assurance using JUnit5.</em>
 
 <em><strong>How can I ensure that my code, program, or software is functional and secure?</strong></em><br>
